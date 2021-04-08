@@ -1,0 +1,10 @@
+
+=
+java:S2140")Use "java.util.Random.nextInt()" instead.(â‡âù
+T	java:S125"<This block of commented-out lines of code should be removed.(ûº…şÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(¶¦õ¹
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(«×Ú
+B
+java:S2140")Use "java.util.Random.nextInt()" instead.(úª•Âúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(©ÌØúÿÿÿÿ
